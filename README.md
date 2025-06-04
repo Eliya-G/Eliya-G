@@ -1,4 +1,4 @@
-# What am I?
+# Who am I?
 
 Hello my name's Eliya, I'm a former welder/fitter turned software developer. My journey of a thousand steps began from a yearning for more knowledge. Bored of huffing welding fumes and building trailers, I sought a bigger challenge. Building complex automated machines. From small little auto-clickers to building scraping spiders such binary marvels always fascinated me. 
 
